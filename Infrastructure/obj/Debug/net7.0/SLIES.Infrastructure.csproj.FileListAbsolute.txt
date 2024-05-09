@@ -1,0 +1,15 @@
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\bin\Debug\net7.0\SLIES.Infrastructure.deps.json
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\bin\Debug\net7.0\SLIES.Infrastructure.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\bin\Debug\net7.0\SLIES.Infrastructure.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\bin\Debug\net7.0\SLIES.Domain.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\bin\Debug\net7.0\SLIES.Domain.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\SLIES.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\SLIES.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\SLIES.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\SLIES.Infrastructure.AssemblyInfo.cs
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\SLIES.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\SLIES.Infrastructure.csproj.CopyComplete
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\SLIES.Infrastructure.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\refint\SLIES.Infrastructure.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\SLIES.Infrastructure.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Infrastructure\obj\Debug\net7.0\ref\SLIES.Infrastructure.dll

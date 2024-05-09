@@ -1,0 +1,17 @@
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\bin\Debug\net7.0\SLIES.Persistence.deps.json
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\bin\Debug\net7.0\SLIES.Persistence.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\bin\Debug\net7.0\SLIES.Persistence.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\bin\Debug\net7.0\SLIES.Domain.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\bin\Debug\net7.0\SLIES.Infrastructure.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\bin\Debug\net7.0\SLIES.Infrastructure.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\bin\Debug\net7.0\SLIES.Domain.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\SLIES.Persistence.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\SLIES.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\SLIES.Persistence.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\SLIES.Persistence.AssemblyInfo.cs
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\SLIES.Persistence.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\SLIES.Persistence.csproj.CopyComplete
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\SLIES.Persistence.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\refint\SLIES.Persistence.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\SLIES.Persistence.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Persistence\obj\Debug\net7.0\ref\SLIES.Persistence.dll

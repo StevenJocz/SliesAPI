@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesCourse\\1ce736c0-baaf-4053-a591-f318b2f085e2.jpg",
+      "PackagePath": "staticwebassets\\ImagenesCourse\\1ce736c0-baaf-4053-a591-f318b2f085e2.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesCourse\\2924aae1-fb6b-4abc-9277-c81f9be3ad43.jpg",
+      "PackagePath": "staticwebassets\\ImagenesCourse\\2924aae1-fb6b-4abc-9277-c81f9be3ad43.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesCourse\\2f934870-329a-4890-9d30-6bc37a473d7c.jpg",
+      "PackagePath": "staticwebassets\\ImagenesCourse\\2f934870-329a-4890-9d30-6bc37a473d7c.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesCourse\\47a1ddfd-0744-46aa-9752-0b802f188826.jpg",
+      "PackagePath": "staticwebassets\\ImagenesCourse\\47a1ddfd-0744-46aa-9752-0b802f188826.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesCourse\\ceb6e670-94fe-4bbb-b682-035e1ebf7978.jpg",
+      "PackagePath": "staticwebassets\\ImagenesCourse\\ceb6e670-94fe-4bbb-b682-035e1ebf7978.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesCourse\\d93d3961-11f6-4a5e-baae-d01d81a0c661.jpg",
+      "PackagePath": "staticwebassets\\ImagenesCourse\\d93d3961-11f6-4a5e-baae-d01d81a0c661.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesUser\\43832fda-a418-4d60-a1e9-6bb220ea843c.jpg",
+      "PackagePath": "staticwebassets\\ImagenesUser\\43832fda-a418-4d60-a1e9-6bb220ea843c.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesUser\\517704eb-1296-46d8-b4d2-c38ce90105b6.jpg",
+      "PackagePath": "staticwebassets\\ImagenesUser\\517704eb-1296-46d8-b4d2-c38ce90105b6.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\SliesV2\\Service\\API\\wwwroot\\ImagenesUser\\7a2aaa29-4aab-40c4-808f-e50680265d54.jpg",
+      "PackagePath": "staticwebassets\\ImagenesUser\\7a2aaa29-4aab-40c4-808f-e50680265d54.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SLIES.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SLIES.API.props",
+      "PackagePath": "build\\SLIES.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SLIES.API.props",
+      "PackagePath": "buildMultiTargeting\\SLIES.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SLIES.API.props",
+      "PackagePath": "buildTransitive\\SLIES.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,12 @@
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\bin\Debug\net7.0\SLIES.Domain.deps.json
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\bin\Debug\net7.0\SLIES.Domain.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\bin\Debug\net7.0\SLIES.Domain.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\SLIES.Domain.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\SLIES.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\SLIES.Domain.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\SLIES.Domain.AssemblyInfo.cs
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\SLIES.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\SLIES.Domain.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\refint\SLIES.Domain.dll
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\SLIES.Domain.pdb
+D:\Proyectos Desarrollo\SliesV2\Service\Domain\obj\Debug\net7.0\ref\SLIES.Domain.dll
